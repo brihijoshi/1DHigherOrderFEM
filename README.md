@@ -1,2 +1,6 @@
 # 1DHigherOrderFEM
-1D Higher Order Finite Element Method - Course Project for Numerical Partial Differential Equations
+
+I implemented 1D FEMs for two cases - Linear and Quadratic Basis functions.
+
+![Linear Basis FEM](linear.png)
+![Quadratic Basis FEM](quadratic.png)
