@@ -1,6 +1,7 @@
 # 1DHigherOrderFEM
 
-I implemented 1D Finite Element Method for two cases - Linear and Quadratic Basis functions.
+Implementation of the 1D Finite Element Method for two cases - Linear and Quadratic Basis function.
+This is a course project for MTH598 - Numerical Partial Differential Equations.
 
 ## Theory 
 Detailed theory for 1D FEMs for Linear and Quadratic Basis functions is present in ```report.pdf```
