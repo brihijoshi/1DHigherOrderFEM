@@ -7,10 +7,14 @@ Detailed theory for 1D FEMs for Linear and Quadratic Basis functions is present 
 
 ### Linear Basis
 The basis functions used for the 1D Linear FEM is 
+
+
 ![Linear FEM](img/linear_basis.png)
 
 ### Quadratic Basis
 The basis functions used for the 1D Linear FEM is 
+
+
 ![Quadratic FEM](img/quadratic_basis.png)
 
 ## Installations
